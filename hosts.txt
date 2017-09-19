@@ -1,0 +1,8 @@
+# My custom ads url to block ads in Thailand
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
+127.0.0.1 ads.pantip.com
