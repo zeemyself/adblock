@@ -6,6 +6,26 @@
 
 # [General]
 127.0.0.1 ads.pantip.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 ads.avocarrot.com
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 d.applvn.com
+127.0.0.1 app.appsflyer.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 a.applvn.com
+127.0.0.1 admin.appnext.com
+127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 live.chartboost.com
+127.0.0.1 v2.chartboost.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 webview.unityads.unity3d.com
+
 
 # [Spotify]
 127.0.0.1 adclick.g.doublecklick.net
